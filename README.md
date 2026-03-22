@@ -81,3 +81,6 @@ npm run dev
 * Authentication (login/signup)
 * Data visualization (charts)
 * Deployment (Render / Vercel)
+
+## Contributions
+- Daniel: Initial contribution
